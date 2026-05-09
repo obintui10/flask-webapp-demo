@@ -7,6 +7,7 @@
 
 
 
+
 A simple Flask web application showcasing static assets, templates, and multiple routes (/ and /about). This project demonstrates how to structure a Python web app with HTML, CSS, JavaScript, and images — perfect as a starter template or recruiter‑ready demo.
 
 ## 🎨 Screenshots
