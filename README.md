@@ -76,6 +76,7 @@ flask-webapp-demo/
 ## 🏗 Architecture (Mermaid)
 ```mermaid
 flowchart TD
-    A[Browser] --> B[Flask App<br>(app.py routes: /, /about)]
-    B --> C[Templates<br>(index.html, about.html)]
-    B --> D[Static Assets<br>(style.css, app.js, logo.png)]
+    A[Browser] --> B[Flask App\n(app.py routes: /, /about)]
+    B --> C[Templates\n(index.html, about.html)]
+    B --> D[Static Assets\n(style.css, app.js, logo.png)]
+
