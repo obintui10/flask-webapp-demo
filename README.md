@@ -6,6 +6,11 @@
 
 A simple Flask web application showcasing static assets, templates, and multiple routes (/ and /about). This project demonstrates how to structure a Python web app with HTML, CSS, JavaScript, and images — perfect as a starter template or recruiter‑ready demo.
 
+## 🎨 Screenshots
+
+### Demo Logo
+![Flask Demo Logo](static/images/flask-demo-logo.png)
+---
 ## 🚀 Quickstart
 ```bash
 # Clone the repository
@@ -45,10 +50,7 @@ flask-webapp-demo/
 - Responsive design → Mobile‑friendly templates
 - Clean project structure → Recruiter‑ready layout
 
-## 🎨 Screenshots
 
-### Demo Logo
-![Flask Demo Logo](static/images/flask-demo-logo.png)
 
 ## 🏗 Architecture (Box Style)
 ┌───────────────────────────────┐
