@@ -1,8 +1,9 @@
-
 # 🔥 Flask WebApp Demo
+
 ![CI/CD Pipeline](https://github.com/obintui10/flask-webapp-demo/actions/workflows/ci-cd.yml/badge.svg)
 ![Docker Image](https://img.shields.io/docker/pulls/obintui10/flask-webapp-demo)
 ![License](https://img.shields.io/github/license/obintui10/flask-webapp-demo)
+
 
 
 A simple Flask web application showcasing static assets, templates, and multiple routes (/ and /about). This project demonstrates how to structure a Python web app with HTML, CSS, JavaScript, and images — perfect as a starter template or recruiter‑ready demo.
