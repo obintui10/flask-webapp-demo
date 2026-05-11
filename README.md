@@ -1,5 +1,13 @@
 # 🔥 Flask WebApp Demo
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.0+-lightgrey?logo=flask)](https://flask.palletsprojects.com/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/obintui10/flask-webapp-demo/python-app.yml?branch=main)](https://github.com/obintui10/flask-webapp-demo/actions)
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Repo Size](https://img.shields.io/github/repo-size/obintui10/flask-webapp-demo)](https://github.com/obintui10/flask-webapp-demo)
+[![Last Commit](https://img.shields.io/github/last-commit/obintui10/flask-webapp-demo)](https://github.com/obintui10/flask-webapp-demo/commits/main)
+
 A simple Flask web application showcasing static assets, templates, and multiple routes (/ and /about). This project demonstrates how to structure a Python web app with HTML, CSS, JavaScript, and images — perfect as a starter template or recruiter‑ready demo.
 
 ## 🎨 Screenshots
