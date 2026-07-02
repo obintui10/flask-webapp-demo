@@ -87,4 +87,14 @@ flowchart TD
     D --> F[Template: about.html]
     B --> G[Static Assets: CSS, JS, Logo]
 
+    %% Colors for each box
+    style A fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#9C27B0,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#00BCD4,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#E91E63,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#8BC34A,stroke:#333,stroke-width:2px,color:#fff
+
+
 
